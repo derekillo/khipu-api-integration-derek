@@ -1,7 +1,7 @@
 
 # 💳 Integración API de Pagos Khipu - Prueba Técnica
 
-Este repositorio contiene la solución desarrollada por **Derek Needham** para la prueba técnica del cargo *Customer Success (con enfoque técnico)* en **Khipu**. El objetivo fue realizar una integración con la API de pagos usando el entorno de pruebas (DemoBank).
+Este repositorio contiene la solución desarrollada para la prueba técnica del cargo *Customer Success (con enfoque técnico)* en **Khipu**. El objetivo fue realizar una integración con la API de pagos usando el entorno de pruebas (DemoBank).
 
 ---
 
