@@ -167,3 +167,12 @@ x-api-key: TU_API_KEY
 Este proyecto fue desarrollado con enfoque en la comprensión técnica del producto, uso correcto de la API REST, validación de flujo completo y aplicación realista de los recursos de integración.
 
 Gracias por la oportunidad.
+
+---
+
+## 🙋 Autor
+
+###Derek Needham
+Proyecto técnico para postulación al cargo de Customer Success con Enfoque Técnico en Khipu.
+
+---
