@@ -8,6 +8,7 @@ Este repositorio contiene la solución desarrollada por **Derek Needham** para l
 ## ✅ Descripción del desafío
 
 Se solicitó simular una integración real utilizando únicamente llamadas a la API de Khipu (no cobros creados desde el portal), generando un pago funcional con monto de prueba y verificando su conciliación.
+
 ⚠️ Este proyecto **no utiliza cobros creados manualmente desde el portal Khipu**. Todos los pagos fueron generados mediante llamadas a la API, tal como lo exige el desafío técnico.
 
 ---
