@@ -64,14 +64,6 @@ python khipu_gui_tkinter.py
 
 ---
 
-## 📚 Referencias usadas (documentación oficial Khipu)
-
-- [Crear cobro con API](https://docs.khipu.com/portal/es/payment-api/#crear-un-cobro)
-- [Autenticación API Key](https://docs.khipu.com/portal/es/payment-auth/)
-- [Verificar pago - GET payment_id](https://docs.khipu.com/openapi/es/v1/instant-payment/openapi/operation/getPaymentById/)
-
----
-
 ## 📸 Evidencias
 
 ### Consola (modo texto)
@@ -110,6 +102,61 @@ Con el header:
 ```bash
 x-api-key: TU_API_KEY
 ```
+
+![image](https://github.com/user-attachments/assets/caf71856-2af2-4c51-b11f-54580cc5a5d8)
+
+```bash
+{
+    "amount": "3.0000",
+    "app_url": "khipu:///pos/drp7wjy8qfoq",
+    "attachment_urls": [],
+    "bank": "DemoBank",
+    "bank_account_number": "969279012013",
+    "bank_id": "Bawdf",
+    "body": "",
+    "cancel_url": "https://www.khipu.com/",
+    "conciliation_date": "2025-05-09T18:20:28.884Z",
+    "currency": "CLP",
+    "custom": "",
+    "discount": "0.0000",
+    "expires_date": "2025-05-10T18:19:29.309Z",
+    "funds_source": "not-available",
+    "notification_token": "3d6c1abc2f545e64fe9508f54330da65eabdc63ce405bcbced0c26e6d05a7de0",
+    "notify_api_version": "",
+    "notify_url": "",
+    "out_of_date_conciliation": false,
+    "payer_email": "dkn.ddr@gmail.com",
+    "payer_name": "Cobrador de desarrollo #497.684",
+    "payment_id": "drp7wjy8qfoq",
+    "payment_method": "simplified_transfer",
+    "payment_url": "https://khipu.com/payment/info/drp7wjy8qfoq",
+    "personal_identifier": "16.142.874-4",
+    "picture_url": "",
+    "ready_for_terminal": true,
+    "receipt_url": "https://s3.amazonaws.com/notifications.khipu.com/CPKH-0905251420-drp7wjy8qfoq.pdf",
+    "receiver_id": 497684,
+    "responsible_user_email": "dkn.ddr@gmail.com",
+    "return_url": "https://www.khipu.com/",
+    "send_email": false,
+    "send_reminders": false,
+    "simplified_transfer_url": "https://app.khipu.com/payment/simplified/drp7wjy8qfoq",
+    "status": "done",
+    "status_detail": "normal",
+    "subject": "3",
+    "third_party_authorization_details": "",
+    "transaction_id": "tx-20250509141928",
+    "transfer_url": "https://khipu.com/payment/manual/drp7wjy8qfoq"
+}
+
+```
+
+---
+
+## 📚 Referencias usadas (documentación oficial Khipu)
+
+- [Crear cobro con API](https://docs.khipu.com/portal/es/payment-api/#crear-un-cobro)
+- [Autenticación API Key](https://docs.khipu.com/portal/es/payment-auth/)
+- [Verificar pago - GET payment_id](https://docs.khipu.com/openapi/es/v1/instant-payment/openapi/operation/getPaymentById/)
 
 ---
 
