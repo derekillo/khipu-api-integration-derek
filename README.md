@@ -19,7 +19,7 @@ Se solicitó simular una integración real utilizando únicamente llamadas a la 
 |--------|-------------|
 | `khipu_test.py` | Versión de consola, 100% interactiva desde terminal. |
 | `khipu_gui_tkinter.py` | Versión con interfaz gráfica (GUI) utilizando Tkinter. |
-| `README.md` | Este documento con instrucciones y explicación técnica. |
+| `README.md` | Documento con instrucciones y explicación técnica. |
 | `evidencias/` | Carpeta con evidencias documentadas del proceso completo y aclaraciones. |
 
 ---
