@@ -73,6 +73,14 @@ python khipu_gui_tkinter.py
 Simulación de la ejecución desde terminal, mostrando el ingreso de datos, validación y respuesta de la API:
 
 ![image](https://github.com/user-attachments/assets/3aaa425d-2243-4f3b-81a0-a82751e5b68f)
+![image](https://github.com/user-attachments/assets/c85ab80f-b5b6-4fb0-8028-d26a1be4b9b4)
+![image](https://github.com/user-attachments/assets/3383a90f-e4a7-4ad6-8671-e2b0630efcc2)
+![image](https://github.com/user-attachments/assets/94784b37-19dd-4102-95f4-545dbbf15f6c)
+![image](https://github.com/user-attachments/assets/ec4f2ab8-1f22-4007-a230-8398a2622dc1)
+![image](https://github.com/user-attachments/assets/120a8ef9-84ed-4c26-b090-18250c97f4d6)
+![image](https://github.com/user-attachments/assets/6d788e8c-f7ff-4060-b4f5-5c3f932c5386)
+
+
 
 
 Se recomienda incluir capturas de:
