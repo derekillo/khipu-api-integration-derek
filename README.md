@@ -172,7 +172,7 @@ Gracias por la oportunidad.
 
 ## 🙋 Autor
 
-###Derek Needham
+### Derek Needham
 Proyecto técnico para postulación al cargo de Customer Success con Enfoque Técnico en Khipu.
 
 ---
