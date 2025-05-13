@@ -52,9 +52,9 @@ def crear_pago():
     transaction_id = "tx-" + datetime.now().strftime("%Y%m%d%H%M%S")
 
     # Paso 5: Define el endpoint y las cabeceras de autenticación
-    url = "https://payment-api.khipu.com/v3/payments"
+    url = "https://payment-api.khipu.com/v3/payments" # URL de la API de Khipu
     headers = {
-        "x-api-key": "fc71c0f5-1efe-4f5e-9cdc-080ef55d8535",
+        "x-api-key": "fc71c0f5-1efe-4f5e-9cdc-080ef55d8535", # Reemplaza con tu API Key
         "Content-Type": "application/json"
     }
 
