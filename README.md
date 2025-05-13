@@ -30,6 +30,12 @@ Este repositorio contiene la solución desarrollada por **Derek Needham** para l
 
 ---
 
+## 🔑 Credenciales utilizadas
+
+Se utiliza una cuenta de cobro en **modo desarrollador**, autenticada mediante **API Key** mediante cabecera `x-api-key`.
+
+---
+
 ## 🧪 Cómo ejecutar
 
 ### Consola (modo texto)
@@ -93,7 +99,17 @@ Simulación de la ventana interactiva con campos de entrada y respuesta visual t
 ![image](https://github.com/user-attachments/assets/47c83b5d-830e-40de-a414-89dd503fe9bb)
 
 
+### Consultar estado de un pago (opcional)
 
+Se puede consultar el estado de un pago en Postman o Python utilizando el endpoint:
+```bash
+GET https://payment-api.khipu.com/v3/payments/{payment_id}
+```
+
+Con el header:
+```bash
+x-api-key: TU_API_KEY
+```
 
 ---
 
