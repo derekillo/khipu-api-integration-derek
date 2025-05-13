@@ -73,20 +73,27 @@ python khipu_gui_tkinter.py
 Simulación de la ejecución desde terminal, mostrando el ingreso de datos, validación y respuesta de la API:
 
 ![image](https://github.com/user-attachments/assets/3aaa425d-2243-4f3b-81a0-a82751e5b68f)
-![image](https://github.com/user-attachments/assets/c85ab80f-b5b6-4fb0-8028-d26a1be4b9b4)
+![image](https://github.com/user-attachments/assets/e1c386d7-213a-4212-ab9e-1354cf1b187f)
 ![image](https://github.com/user-attachments/assets/3383a90f-e4a7-4ad6-8671-e2b0630efcc2)
 ![image](https://github.com/user-attachments/assets/94784b37-19dd-4102-95f4-545dbbf15f6c)
 ![image](https://github.com/user-attachments/assets/ec4f2ab8-1f22-4007-a230-8398a2622dc1)
 ![image](https://github.com/user-attachments/assets/120a8ef9-84ed-4c26-b090-18250c97f4d6)
 ![image](https://github.com/user-attachments/assets/6d788e8c-f7ff-4060-b4f5-5c3f932c5386)
 
+### Interfaz gráfica (Tkinter)
+
+Simulación de la ventana interactiva con campos de entrada y respuesta visual tras crear el pago:
+
+![image](https://github.com/user-attachments/assets/a93b2919-0fb0-4428-81de-1c49b8bd4d27)
+![image](https://github.com/user-attachments/assets/a9dda2c7-ffb0-45c8-8ca3-b65c2c88493f)
+![image](https://github.com/user-attachments/assets/99a4037e-a53e-47ca-8adc-047ae2b48680)
+![image](https://github.com/user-attachments/assets/b91d473d-e161-43a7-8b07-ede18d8cdccd)
+![image](https://github.com/user-attachments/assets/307d76f9-777b-4857-88ce-f58b6a554060)
+![image](https://github.com/user-attachments/assets/4c624614-6bce-4663-a659-83a84f903de4)
+![image](https://github.com/user-attachments/assets/47c83b5d-830e-40de-a414-89dd503fe9bb)
 
 
 
-Se recomienda incluir capturas de:
-- Script en ejecución
-- Pago realizado en navegador
-- Postman mostrando conciliación del pago
 
 ---
 
