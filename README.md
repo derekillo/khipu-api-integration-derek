@@ -95,7 +95,7 @@ Simulación de la ventana interactiva con campos de entrada y respuesta visual t
 
 ### Consultar estado de un pago (opcional)
 
-Se puede consultar el estado de un pago en Postman o Python utilizando el endpoint:
+Se puede consultar el estado de un pago en Postman utilizando el endpoint:
 ```bash
 GET https://payment-api.khipu.com/v3/payments/{payment_id}
 ```
