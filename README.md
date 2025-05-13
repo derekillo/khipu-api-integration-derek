@@ -68,6 +68,13 @@ python khipu_gui_tkinter.py
 
 ## 📸 Evidencias
 
+### Consola (modo texto)
+
+Simulación de la ejecución desde terminal, mostrando el ingreso de datos, validación y respuesta de la API:
+
+![image](https://github.com/user-attachments/assets/3aaa425d-2243-4f3b-81a0-a82751e5b68f)
+
+
 Se recomienda incluir capturas de:
 - Script en ejecución
 - Pago realizado en navegador
